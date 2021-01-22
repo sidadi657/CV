@@ -1,0 +1,35 @@
+.colored-div{
+  background-color: #D3D3D3;
+
+}
+.text-value{
+  font-family: serif;
+}
+p{
+  font-size: 20px;
+}
+.padding-bottom{
+  padding-bottom: 5px;
+}
+h3{
+  text-decoration: underline;
+}
+h3:hover{
+  color:gray;
+}
+td{
+  padding:10px 30px;
+}
+h1{
+  padding: 20px 0;
+}
+img{
+position: relative;
+left: 20px;
+top: 20px;
+
+}
+li{
+  padding: 5px 0;
+font-size: 20px;
+}
